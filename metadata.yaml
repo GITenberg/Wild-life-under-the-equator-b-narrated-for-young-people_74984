@@ -1,0 +1,39 @@
+_repo: Wild-life-under-the-equator-b-narrated-for-young-people_74984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Chaillu, Paul B. (Paul Belloni)
+    aliases:
+    - Chaillu, Paul Du
+    - Chaillu, Paul B. du (Paul Belloni)
+    - Belloni du Chaillu, Paul
+    - Chaillu, P. B. du (Paul Belloni)
+    - Chaillu, Paul Belloni Du
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '25508'
+    url: http://www.gutenberg.org/2009/agents/25508
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Du_Chaillu
+description: ''
+gutenberg_issued: '2024-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74984'
+  lccn: 05009139
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/102984813
+pgterms:marc905: 20240213140538duchaillu
+pgterms:marc906: '1868'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bHarper & Brothers, $c1868, copyright 1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, West -- Description and travel -- Juvenile literature'
+- !lcc 'DT'
+- GITenberg
+title: 'Wild life under the equator : $b narrated for young people'
+url: http://www.gutenberg.org/ebooks/74984
