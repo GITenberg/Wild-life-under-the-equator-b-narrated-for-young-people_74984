@@ -1,5 +1,8 @@
 _repo: Wild-life-under-the-equator-b-narrated-for-young-people_74984
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74984-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Chaillu, Paul B. (Paul Belloni)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25508
     wikipedia: https://en.wikipedia.org/wiki/Paul_Du_Chaillu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74984#Wild-life-under-the-equator-b-narrated-for-young-people
 gutenberg_issued: '2024-12-28'
 gutenberg_type: Text
 identifiers:
